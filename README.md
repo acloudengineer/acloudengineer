@@ -1,10 +1,13 @@
 ### Hello World! (as they say) 👋
 
+Currently working on building this profile page up.  
+
+
 
 
 <h3> 🌱 I’m currently learning ...</h3>
-- Kubernetes the Hard Way
-- Terraform
+- Kubernetes the Hard Way <br />
+- Terraform <br />
 - Google Cloud Platform
 
 
