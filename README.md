@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello World! (as they say) 👋
+
+
+
+<h3> 🌱 I’m currently learning ...</h3>
+- Kubernetes the Hard Way
+- Terraform
+- Google Cloud Platform
+
 
 <!--
 **acloudengineer/acloudengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
