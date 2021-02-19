@@ -2,7 +2,7 @@
 
 Currently working on building this profile page up.  
 
-A history in hardware and Windows and Linux Support now focusing on Cloud Infrastructure.  Moved on to cloud technologies and dabbling in IaaC, Web and Application development.
+A history in hardware and Windows and Linux Support now focusing on Cloud Infrastructure.  Along with Cloud technologies such as GCP and AWS, I'm also dabbling in IaaC, Automation, and Web and Application development 
 
 
 <h3> 🌱 I’m currently learning ...</h3>
